@@ -12,7 +12,7 @@ function App() {
       <Nav />
 
       <Routes>
-        <Route path="/" exact element={<Homepage />}/>
+        <Route path="/demo-photoweb" exact element={<Homepage />}/>
         <Route path="/about" exact element={<About />}/>  
    
 
